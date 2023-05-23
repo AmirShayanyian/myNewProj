@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0dvQmfMhviQ+o0VMe6Rh4FtAdt6vDKyvg2+mk5khA1xupt9jgktOYnr/PlqU3xeFmafV3NedoEaoNK1zytEYQ==",
+  "dgSpecHash": "uk4WFXGwVbbwGWXIQHQSjvnSXZA767VdZzzKMPeqAglFDvfx8K+veWsRtONm5jvDrBC3k1qM7uWdqiG2gVwbqg==",
   "success": true,
-  "projectFilePath": "C:\\Development\\toDoListApi\\1-Data\\1-Data.csproj",
+  "projectFilePath": "C:\\Development\\ToDoListApi\\1-Data\\1-Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
